@@ -1,0 +1,82 @@
+* {
+    -fx-primary: #3d3d3d;
+    -fx-secondary: #FFFF8D;
+    -fx-primarytext: #B2B2B2;
+    -fx-red: #FF8900;
+    -fx-lightgrey: #B0B0B0;
+    -fx-white: #FCFCFC;
+}
+
+.root {
+    -fx-background-color: -fx-primary;
+}
+
+.glyph-icon {
+    -fx-fill: -fx-primarytext;
+}
+
+.button {
+    -fx-text-fill: -fx-primarytext;
+}
+
+/* login screen specific */
+.login-button {
+    -fx-border-width: 2;
+    -fx-border-color: -fx-secondary;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+.login-button:hover {
+    -fx-border-color: -fx-secondary;
+    -fx-background-color: -fx-secondary;
+    -fx-text-fill: -fx-primary;
+}
+
+.text-field {
+    -fx-text-fill: -fx-primarytext;
+    -fx-font-size: 16px;
+    -fx-prompt-text-fill: -fx-lightgrey;
+    -jfx-focus-color: -fx-secondary;
+}
+
+.wrong-credentials {
+    -jfx-unfocus-color: -fx-red;
+    -jfx-focus-color: -fx-red;
+}
+
+/*!* Board Specific *!*/
+/*.board-grid {*/
+    /*-fx-background-color: -fx-white;*/
+    /*-fx-background-radius: 2.0;*/
+    /*-fx-hgap: 3;*/
+    /*-fx-vgap: 3;*/
+/*}*/
+
+/*.mygridStyle Line {*/
+    /*-fx-stroke   : red;*/
+/*}*/
+
+/*.game-grid-cell {*/
+    /*-fx-background-color: black, white ;*/
+    /*-fx-background-insets: 0, 0 1 1 0 ;*/
+/*}*/
+
+/*.game-grid {*/
+    /*-fx-background-color: white ;*/
+    /*-fx-padding: 10 ;*/
+/*}*/
+
+/* vote pane specific */
+.vote-button {
+    -fx-border-color: -fx-primary;
+    -fx-text-fill: -fx-primary;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+.vote-button:hover {
+    -fx-border-color: -fx-secondary;
+    -fx-background-color: -fx-secondary;
+    -fx-text-fill: -fx-primary;
+}

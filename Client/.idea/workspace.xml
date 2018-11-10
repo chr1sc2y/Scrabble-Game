@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610f7ca6-3729-469b-983b-603cc5898490" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1010501485">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="classpath" value="1" />
+          <entry key="css" value="4" />
+          <entry key="fxml" value="3" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="13" />
+          <entry key="md" value="3" />
+          <entry key="project" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="CSS" value="4" />
+          <entry key="Eclipse" value="2" />
+          <entry key="JAVA" value="13" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="461" />
+          <entry key="dummy" value="8" />
+          <entry key="fxml" value="11" />
+          <entry key="gitignore" value="29" />
+          <entry key="java" value="4990" />
+          <entry key="md" value="195" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="461" />
+          <entry key="JAVA" value="4990" />
+          <entry key="Markdown" value="195" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+    <session id="-133137195">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="fxml" value="14" />
+          <entry key="java" value="106" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="JAVA" value="106" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="24" />
+          <entry key="dummy" value="28" />
+          <entry key="fxml" value="16" />
+          <entry key="java" value="23840" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="24" />
+          <entry key="JAVA" value="23840" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ClientListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/ClientListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4900">
+              <caret line="152" column="31" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharCell.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/CharCell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3675">
+              <caret line="137" column="57" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3570">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorHandling.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ErrorHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/GameWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Message.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/network/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
+              <folding>
+                <element signature="e#2121#2122#0" expanded="true" />
+                <element signature="e#2155#2156#0" expanded="true" />
+                <element signature="e#2193#2194#0" expanded="true" />
+                <element signature="e#2227#2228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SideController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/SideController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8715">
+              <caret line="259" column="5" selection-start-line="259" selection-start-column="5" selection-end-line="259" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LobbyController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/LobbyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5425">
+              <caret line="171" column="86" selection-start-line="171" selection-start-column="86" selection-end-line="171" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TableList</find>
+      <find>Message</find>
+      <find>startHand</find>
+      <find>login</find>
+      <find>new thread</find>
+      <find>ip</find>
+      <find>name</find>
+      <find>ClientListener</find>
+      <find>handleLoginButtonAction</find>
+      <find>LoginController</find>
+      <find>userlist</find>
+      <find>instance</find>
+      <find>onlinePlayers</find>
+      <find>createConnection</find>
+      <find>CHECK</find>
+      <find>sendmsg</find>
+      <find>showdia</find>
+      <find>connection</find>
+      <find>sock</find>
+      <find>close</find>
+      <find>exception</find>
+      <find>!!!!!!</find>
+      <find>!!!!</find>
+      <find>case poll</find>
+      <find>updateUI</find>
+      <find>addPl</find>
+      <find>case invite</find>
+      <find>case sitdown</find>
+      <find>place a character</find>
+      <find>case suspen</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/grid-with-borders.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/LoginView.fxml" />
+        <option value="$PROJECT_DIR$/src/GameLayout.fxml" />
+        <option value="$PROJECT_DIR$/src/GameLauncher.java" />
+        <option value="$PROJECT_DIR$/src/Scrabble.java" />
+        <option value="$PROJECT_DIR$/src/ScorePane.java" />
+        <option value="$PROJECT_DIR$/src/GameWindow.java" />
+        <option value="$PROJECT_DIR$/src/GameLayoutController.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/player/ComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/readCard.java" />
+        <option value="$PROJECT_DIR$/src/com/Board.java" />
+        <option value="$PROJECT_DIR$/src/SwitchScene.java" />
+        <option value="$PROJECT_DIR$/src/LoginScene.java" />
+        <option value="$PROJECT_DIR$/src/Lobby.fxml" />
+        <option value="$PROJECT_DIR$/src/com/playerItem.java" />
+        <option value="$PROJECT_DIR$/src/com/network/NetworkHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/network/BoardOperation.java" />
+        <option value="$PROJECT_DIR$/src/com/network/UIOperation.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/lobbyController.java" />
+        <option value="$PROJECT_DIR$/src/com/Scrabble.java" />
+        <option value="$PROJECT_DIR$/src/com/ScorePane.java" />
+        <option value="$PROJECT_DIR$/src/scrabble.css" />
+        <option value="$PROJECT_DIR$/src/com/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/com/Selection.java" />
+        <option value="$PROJECT_DIR$/src/com/GameWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/network/Word.java" />
+        <option value="$PROJECT_DIR$/src/LobbyController.java" />
+        <option value="$PROJECT_DIR$/src/LobbyView.fxml" />
+        <option value="$PROJECT_DIR$/src/MainLauncher.java" />
+        <option value="$PROJECT_DIR$/src/ClientListener.java" />
+        <option value="$PROJECT_DIR$/src/com/network/Selection.java" />
+        <option value="$PROJECT_DIR$/src/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/com/PlayerItem.java" />
+        <option value="$PROJECT_DIR$/src/common/LobbyView.fxml" />
+        <option value="$PROJECT_DIR$/src/common/MainLauncher.java" />
+        <option value="$PROJECT_DIR$/src/com/VotePane.java" />
+        <option value="$PROJECT_DIR$/src/com/player/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/GameSession.java" />
+        <option value="$PROJECT_DIR$/src/com/player/Status.java" />
+        <option value="$PROJECT_DIR$/src/common/LobbyController.java" />
+        <option value="$PROJECT_DIR$/src/com/network/Message.java" />
+        <option value="$PROJECT_DIR$/src/com/ErrorHandling.java" />
+        <option value="$PROJECT_DIR$/src/common/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/common/SideController.java" />
+        <option value="$PROJECT_DIR$/src/common/ClientListener.java" />
+        <option value="$PROJECT_DIR$/src/com/CharCell.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539519700415" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.network" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\study\UoM\Sem 2 2018\Distributed Systems\assignments\assignment 2\scrabblegame\src" />
+      <recent name="F:\study\UoM\Sem 2 2018\Distributed Systems\assignments\assignment 2\scrabblegame\src\common" />
+      <recent name="F:\study\UoM\Sem 2 2018\Distributed Systems\assignments\assignment 2\scrabblegame\src\com" />
+      <recent name="F:\study\UoM\Sem 2 2018\Distributed Systems\assignments\assignment 2\group\scrabblegame\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainLauncher">
+    <configuration name="MainLauncher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.MainLauncher" />
+      <module name="scrabblegame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.MainLauncher" />
+      <module name="scrabblegame" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6 7 8" />
+    </configuration>
+    <configuration name="MainLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainLauncher" />
+      <module name="scrabblegame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scrabble (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Scrabble" />
+      <module name="scrabblegame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scrabble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Scrabble" />
+      <module name="scrabblegame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scrabble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Scrabble" />
+      <module name="scrabblegame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchScene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchScene" />
+      <module name="scrabblegame" />
+    </configuration>
+    <configuration name="readCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readCard" />
+      <module name="scrabblegame" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6 7 8" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Scrabble" />
+      <item itemvalue="Application.MainLauncher" />
+      <item itemvalue="Application.readCard" />
+      <item itemvalue="Application.SwitchScene" />
+      <item itemvalue="Application.Scrabble (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainLauncher" />
+        <item itemvalue="Application.Scrabble" />
+        <item itemvalue="Application.Scrabble (1)" />
+        <item itemvalue="Application.SwitchScene" />
+        <item itemvalue="Application.readCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610f7ca6-3729-469b-983b-603cc5898490" name="Default Changelist" comment="" />
+      <created>1537428612068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537428612068</updated>
+      <workItem from="1537428614589" duration="385000" />
+      <workItem from="1537443783851" duration="7356000" />
+      <workItem from="1537592483610" duration="16555000" />
+      <workItem from="1537749751564" duration="1868000" />
+      <workItem from="1537779149055" duration="1231000" />
+      <workItem from="1537974295412" duration="595000" />
+      <workItem from="1538008168672" duration="7461000" />
+      <workItem from="1538125959664" duration="21160000" />
+      <workItem from="1538269278077" duration="27135000" />
+      <workItem from="1538350451641" duration="7535000" />
+      <workItem from="1538375668108" duration="27000" />
+      <workItem from="1538448094504" duration="200000" />
+      <workItem from="1538449830341" duration="972000" />
+      <workItem from="1538475234206" duration="1610000" />
+      <workItem from="1538485572249" duration="851000" />
+      <workItem from="1538488903786" duration="20367000" />
+      <workItem from="1538562145879" duration="17144000" />
+      <workItem from="1538626280836" duration="1532000" />
+      <workItem from="1538986325746" duration="84000" />
+      <workItem from="1539001965251" duration="143000" />
+      <workItem from="1539248294138" duration="3342000" />
+      <workItem from="1539254563701" duration="4715000" />
+      <workItem from="1539485760627" duration="568000" />
+      <workItem from="1539902977408" duration="597000" />
+      <workItem from="1540619413280" duration="78000" />
+      <workItem from="1541893252457" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192362000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21618497" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2676617" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.4704918" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32947975" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18157615" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4442623" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23278688" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2344932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.4704918" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32947975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4442623" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21618497" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/player/Player.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GameLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/GameWindow.java" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/event/EventType.java" />
+    <entry file="file://$PROJECT_DIR$/src/readCard.java" />
+    <entry file="file://$PROJECT_DIR$/src/LoginScene.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/network/BoardOperation.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/network/UIOperation.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/network/NetworkHelper.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/Socket.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/stage/Stage.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/stage/Window.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/beans/property/BooleanPropertyBase.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/player/ComputerPlayer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Optional.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/tk/quantum/GlassViewEventHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Coordinates.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/network/Word.java" />
+    <entry file="file://$PROJECT_DIR$/src/common/LoginView.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Scrabble.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CharPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Selection.java" />
+    <entry file="file://$PROJECT_DIR$/src/common/SwitchScene.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ScorePane.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CharCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="137" column="57" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/player/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/GameSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="33" column="81" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/TextInputControl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/network/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="107" column="4" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scrabble.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="54" column="45" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="54" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/LobbyView.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="11" column="164" selection-start-line="11" selection-start-column="126" selection-end-line="11" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/dark-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/VotePane.java" />
+    <entry file="file://$PROJECT_DIR$/src/common/PlayerItemView.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/common/SideView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/LobbyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5425">
+          <caret line="171" column="86" selection-start-line="171" selection-start-column="86" selection-end-line="171" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/player/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MainLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ErrorHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/PlayerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/ClientListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="152" column="31" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/SideController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8715">
+          <caret line="259" column="5" selection-start-line="259" selection-start-column="5" selection-end-line="259" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.network.Coordinates">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.network.Coordinates</OriginalElement>
+          <nodes>
+            <node x="0.0" y="80.0">com.network.Coordinates</node>
+            <node x="47.5" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.network.Coordinates" target="java.io.Serializable">
+              <point x="0.0" y="-82.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-479.0" y="69.0" />
+          <SelectedNodes>
+            <node>com.network.Coordinates</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.network.Message">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.network.Message</OriginalElement>
+          <nodes>
+            <node x="33.5" y="80.0">com.network.Message</node>
+            <node x="333.5572916666667" y="735.0">com.network.Message.Status</node>
+            <node x="207.55729166666669" y="900.0">com.network.Message.SitStatus</node>
+            <node x="0.0" y="911.0">com.network.Message.Region</node>
+            <node x="201.75" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.network.Message.Region" target="java.io.Serializable">
+              <point x="-23.0" y="-37.0" />
+              <point x="23.0" y="50.0" />
+              <point x="216.5" y="50.0" />
+              <point x="-44.25" y="15.0" />
+            </edge>
+            <edge source="com.network.Message.SitStatus" target="com.network.Message">
+              <point x="-26.5" y="-48.0" />
+              <point x="234.05729166666669" y="715.0" />
+              <point x="181.5" y="715.0" />
+              <point x="0.0" y="302.5" />
+            </edge>
+            <edge source="com.network.Message.SitStatus" target="java.io.Serializable">
+              <point x="26.5" y="-48.0" />
+              <point x="287.0572916666667" y="715.0" />
+              <point x="340.0" y="715.0" />
+              <point x="340.0" y="60.0" />
+              <point x="275.5" y="60.0" />
+              <point x="14.75" y="15.0" />
+            </edge>
+            <edge source="com.network.Message.Status" target="java.io.Serializable">
+              <point x="33.75" y="-213.0" />
+              <point x="434.8072916666667" y="50.0" />
+              <point x="305.0" y="50.0" />
+              <point x="44.25" y="15.0" />
+            </edge>
+            <edge source="com.network.Message.Region" target="com.network.Message">
+              <point x="23.0" y="-37.0" />
+              <point x="69.0" y="715.0" />
+              <point x="82.83333333333331" y="715.0" />
+              <point x="-98.66666666666667" y="302.5" />
+            </edge>
+            <edge source="com.network.Message.Status" target="com.network.Message">
+              <point x="-33.75" y="-213.0" />
+              <point x="367.3072916666667" y="705.0" />
+              <point x="280.1666666666667" y="705.0" />
+              <point x="98.66666666666669" y="302.5" />
+            </edge>
+            <edge source="com.network.Message" target="java.io.Serializable">
+              <point x="0.0" y="-302.5" />
+              <point x="181.5" y="60.0" />
+              <point x="246.0" y="60.0" />
+              <point x="-14.75" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.40643522438611346" x="235.0" y="581.0" />
+          <SelectedNodes>
+            <node>com.network.Message</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/network/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
+          <folding>
+            <element signature="e#2121#2122#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#2193#2194#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>scrabblegame</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix-8.0.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

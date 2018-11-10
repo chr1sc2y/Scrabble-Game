@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="common.LobbyController">
+   <children>
+      <BorderPane layoutX="125.0" layoutY="-15.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <left>
+            <SplitPane dividerPositions="0.1507537688442211" orientation="VERTICAL" prefHeight="200.0" prefWidth="160.0" BorderPane.alignment="CENTER">
+              <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                     <children>
+                        <AnchorPane layoutX="-42.0" layoutY="-86.0" prefHeight="43.0" prefWidth="158.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label alignment="CENTER" layoutX="24.0" layoutY="5.0" prefHeight="57.0" prefWidth="158.0" styleClass="root" stylesheets="@dark-theme.css" text="Online Users" textFill="#b2b2b2" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                 <font>
+                                    <Font name="Arial Rounded MT Bold" size="19.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                     <children>
+                        <VBox fx:id="playerList" layoutX="29.0" layoutY="14.0" prefHeight="349.0" prefWidth="158.0" spacing="5.0" styleClass="root" stylesheets="@dark-theme.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                     </children>
+                  </AnchorPane>
+              </items>
+            </SplitPane>
+         </left>
+         <center>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #3d3d3d;" stylesheets="@dark-theme.css" BorderPane.alignment="CENTER">
+               <children>
+                  <Circle fill="#1f93ff00" layoutX="221.0" layoutY="200.0" radius="90.0" stroke="#ffff8d" strokeType="INSIDE" strokeWidth="2.0" />
+                  <JFXButton fx:id="btnJoin2" layoutX="191.0" layoutY="28.0" prefHeight="60.0" prefWidth="60.0" styleClass="login-button" stylesheets="@dark-theme.css" text="●">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font></JFXButton>
+                  <JFXButton fx:id="btnJoin3" layoutX="41.0" layoutY="170.0" prefHeight="60.0" prefWidth="60.0" styleClass="login-button" stylesheets="@dark-theme.css" text="●">
+                     <font>
+                        <Font size="14.0" />
+                     </font></JFXButton>
+                  <JFXButton fx:id="btnJoin1" layoutX="191.0" layoutY="312.0" prefHeight="60.0" prefWidth="60.0" styleClass="login-button" stylesheets="@dark-theme.css" text="●">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font></JFXButton>
+                  <JFXButton fx:id="btnJoin4" layoutX="337.0" layoutY="170.0" prefHeight="60.0" prefWidth="60.0" styleClass="login-button" stylesheets="@dark-theme.css" text="●">
+                     <font>
+                        <Font size="14.0" />
+                     </font></JFXButton>
+                  <JFXButton fx:id="btnJoin" layoutX="181.0" layoutY="153.0" onAction="#btnJoinAction" prefHeight="37.0" prefWidth="79.0" styleClass="login-button" stylesheets="@dark-theme.css" text="Join">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </JFXButton>
+                  <JFXButton fx:id="btnStart" layoutX="181.0" layoutY="206.0" onAction="#btnStartAction" prefHeight="37.0" prefWidth="79.0" styleClass="login-button" stylesheets="@dark-theme.css" text="Start">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

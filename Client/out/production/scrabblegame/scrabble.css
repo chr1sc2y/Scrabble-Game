@@ -1,0 +1,79 @@
+.root {
+    -fx-padding: 0.0 ;
+    cell-color: #D7D7D7 ;
+    cell-border-color: #FFFFFF ;
+}
+
+/* board */
+.board {
+    -fx-background-color: #FFFFFF;
+}
+
+/* background cell on the board */
+.cell {
+    /* 1 pixel border around the left and bottom of each cell: */
+    /*-fx-background-color: cell-border-color, cell-color ;*/
+    -fx-background-color: #3D3D3D;
+    -fx-opacity: 0.9;
+    /*-fx-background-insets: 0, 0 0 1 1 ;*/
+    /*-fx-border-insets: 10;*/
+    -fx-background-radius: 0.0;
+    -fx-padding: 1.0px;
+    -fx-border-insets: 1.0px;
+    -fx-background-insets: 1.0px;
+}
+
+.cell:hover {
+    -fx-background-color: #929292;
+}
+
+/* cell of filled char */
+.filledCell {
+    -fx-background-color: #FFFF8C;
+    -fx-opacity: 0.9;
+    -fx-background-radius: 0.0;
+    -fx-padding: 1.0px;
+    -fx-border-insets: 1.0px;
+    -fx-background-insets: 1.0px;
+}
+
+/* cell of highlighted char */
+.hiliCell {
+    -fx-background-color: #FF9400;
+    -fx-opacity: 0.9;
+    -fx-background-radius: 0.0;
+    -fx-padding: 1.0px;
+    -fx-border-insets: 1.0px;
+    -fx-background-insets: 1.0px;
+}
+.hiliCell:hover {
+    -fx-background-color: #FFC882;
+}
+
+.letter {
+    -fx-font-size: 18.0;
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-text-fill: black;
+}
+
+/* score pane */
+.score-pane-title {
+    -fx-pref-height: 40;
+    -fx-pref-width: 100;
+    -fx-font-family: "Berlin Sans FB Demi";
+    -fx-font-size: 35;
+}
+
+.score-label {
+    -fx-pref-width: 40;
+    -fx-font-size: 23;
+    -fx-font-family: "Arial Black"
+}
+
+.name-label {
+    -fx-pref-width: 80;
+    -fx-font-size: 23;
+    -fx-font-family: "Bauhaus 93"
+}
+
+

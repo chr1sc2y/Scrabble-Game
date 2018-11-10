@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="350.0" style="-fx-background-color: #3d3d3d;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="common.LoginController">
+   <children>
+      <JFXTextField fx:id="textFieldUsername" focusColor="#f7f8fc" layoutX="103.0" layoutY="119.0" prefHeight="42.0" prefWidth="177.0" promptText="user name" styleClass="text-field" stylesheets="@dark-theme.css">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="textFieldServerIP" layoutX="103.0" layoutY="211.0" prefHeight="33.0" prefWidth="177.0" promptText="server ip address" styleClass="text-field" stylesheets="@dark-theme.css" />
+      <JFXTextField fx:id="textFieldServerPort" layoutX="103.0" layoutY="267.0" prefHeight="33.0" prefWidth="177.0" promptText="server port number" styleClass="text-field" stylesheets="@dark-theme.css" />
+      <FontAwesomeIconView fill="#eeeff4" glyphName="USER" layoutX="54.0" layoutY="153.0" size="30" wrappingWidth="27.000002562999725" />
+      <FontAwesomeIconView fill="#eeeff4" glyphName="SERVER" layoutX="51.0" layoutY="242.0" size="30" wrappingWidth="27.0" />
+      <FontAwesomeIconView fill="#eeeff4" layoutX="50.0" layoutY="299.0" size="30" wrappingWidth="27.0" />
+      <FontAwesomeIconView fill="#e6e7f5" layoutX="86.0" layoutY="72.0" size="45" text="Scrabble" textAlignment="CENTER" wrappingWidth="177.00000405311584">
+         <font>
+            <Font name="Maiandra GD" size="29.0" />
+         </font>
+      </FontAwesomeIconView>
+      <JFXButton fx:id="btnLogin" buttonType="RAISED" layoutX="117.0" layoutY="343.0" onAction="#handleLoginButtonAction" prefHeight="41.0" prefWidth="115.0" ripplerFill="WHITE" styleClass="login-button" stylesheets="@dark-theme.css" text="Login" textFill="#eeeff4">
+         <font>
+            <Font name="Arial Black" size="14.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>
