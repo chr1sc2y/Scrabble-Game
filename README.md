@@ -1,4 +1,4 @@
-This is an online multi-player Scrabble game, implemented in Java using TCP, Thread, and JavaFX.
+Online multi-player Scrabble game implemented in Java using TCP, Thread, and JavaFX.
 
 ## Server
 
@@ -31,3 +31,8 @@ $ java -jar ScrabbleClient.jar
 - thread-per-connection architecture
 
 ## Demo
+![Login](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Login.png)
+
+![Desk](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Desk.png)
+
+![Board](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Board.png)
