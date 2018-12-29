@@ -17,8 +17,8 @@ $ java -jar ScrabbleClient.jar
 
 ## Component
 ### Server
+- send message to a certain player to act
 - broadcast messages to all other players when current player acts
-- prevent players from operating when other players are acting
 ### Client
 - handle operations from the server
 ### Client GUI
