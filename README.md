@@ -1,5 +1,7 @@
 ![0](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/0.png)
 
+## Scrabble Game
+
 Online multi-player Scrabble game implemented in Java using TCP, Thread, and JavaFX.
 
 ## Server
