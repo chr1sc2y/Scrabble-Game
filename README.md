@@ -1,4 +1,4 @@
-![0](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/0.png)
+![0](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/0.png)
 
 ## Scrabble Game
 
@@ -35,8 +35,8 @@ $ java -jar ScrabbleClient.jar
 - thread-per-connection architecture
 
 ## Demo
-![Login](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Login.png)
+![Login](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Login.png)
 
-![Desk](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Desk.png)
+![Desk](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Desk.png)
 
-![Board](https://github.com/ZintrulCre/Scrabble-Game/blob/master/Resource/Board.png)
+![Board](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Board.png)
