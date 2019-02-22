@@ -1,10 +1,12 @@
 ![0](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/0.png)
 
-## Scrabble Game
+# Scrabble Game
 
 Online multi-player Scrabble game implemented in Java using TCP, Thread, and JavaFX.
 
-## Server
+## Use
+
+### Server
 
 ```
 $ java -jar ScrabbleServer.jar [options] -p <port>
@@ -12,7 +14,7 @@ $ java -jar ScrabbleServer.jar [options] -p <port>
 
 Default port is 55555.
 
-## Client
+### Client
 
 ```
 $ java -jar ScrabbleClient.jar
@@ -20,6 +22,7 @@ $ java -jar ScrabbleClient.jar
 
 
 ## Component
+
 ### Server
 - send message to a certain player to act
 - broadcast messages to all other players when current player acts
